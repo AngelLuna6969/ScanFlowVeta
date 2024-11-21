@@ -1,0 +1,6 @@
+# React + Vite
+
+npm install - INSTALARA DEPENDENCIAS UTILIZADS EN LA APLICACIÓN.
+
+
+npm run dev - INICIARA EL PROUECTO
